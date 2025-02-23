@@ -1,5 +1,5 @@
 {
-  "name": "cdk-bedrock-agent",
+  "name": "studentfeedback",
   "version": "0.1.0",
   "bin": {
     "cdk-bedrock-agent": "bin/cdk-bedrock-agent.js"
