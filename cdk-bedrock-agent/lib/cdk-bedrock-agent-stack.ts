@@ -12,7 +12,7 @@ import * as origins from 'aws-cdk-lib/aws-cloudfront-origins';
 import * as lambda from "aws-cdk-lib/aws-lambda";
 import * as path from "path";
 
-const projectName = `bedrock-agent`; 
+const projectName = `student-feedback`; 
 const region = process.env.CDK_DEFAULT_REGION;    
 const accountId = process.env.CDK_DEFAULT_ACCOUNT;
 const targetPort = 8080;
